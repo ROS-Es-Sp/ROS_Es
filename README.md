@@ -14,8 +14,8 @@ Nos estamos concentrando en la traduccion de la documentacion de ROS y en la ele
 
 Hay varias formas de apoyar el proyecto:
 1. Participa de la comunidad.
-2. Instala ROS.
-3. Ayuda a otros.
+2. Instalá ROS.
+3. Ayuda a otros [documentando](https://gist.github.com/rje1974/c2593a5178a33d911c8dcb8fc9d330bf).
 
 ## Licencia
 
